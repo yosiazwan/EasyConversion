@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Easy Conversion Free</string>
+
+    <string name="owner_email">Email : yosi.azwan@gmail.com</string>
+    <string name="owner_name">Yosi Azwan, S.Kom</string>
+    <string name="owner_web">www.yosiazwan.my.id</string>
+    <string name="app_copy">Copyright © 2015 | Yosi Azwan</string>
+    <string name="app_version">Easy Conversion Free v1.0</string>
+</resources>
