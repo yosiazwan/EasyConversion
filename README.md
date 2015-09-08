@@ -1,3 +1,5 @@
 # EasyConversion
+<p>
 Android application to convert between units of measurement.
-Develop with Android Studio.
+</p>
+<p>Develop with Android Studio.</p>
