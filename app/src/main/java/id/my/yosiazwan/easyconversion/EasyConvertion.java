@@ -18,6 +18,7 @@ public class EasyConvertion extends AppCompatActivity {
     private String[] ConversionName = {
             "Select Conversion",
             "Km - Mile",
+            "Mile - Km",
             "Foot - Milimeter",
             "Milimeter - Foot"
     };
