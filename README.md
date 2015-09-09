@@ -5,8 +5,11 @@ Android application to convert between units of measurement.
 <p>Develop with Android Studio.</p>
 <p>
 <b>Unit conversion support :</b>
-1. Km - Mile
-2. Mile - Km
-3. Foot - Milimeter
-4. Milimeter - Foot
+<ul>
+<ol>
+<li>Km - Mile</li>
+<li>Mile - Km</li>
+<li>Foot - Milimeter</li>
+<li>Milimeter - Foot</li>
+</ol>
 </p>
